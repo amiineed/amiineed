@@ -14,6 +14,6 @@ Retrouvez l'ensemble de mes projets et contributions directement dans l'onglet *
 
 🔗 **Réseaux :**
 - [LinkedIn](https://www.linkedin.com/in/amine-moussaif-084889333)
-- [Mail](studentamined@gmail.com)
+- [Email](studentamined@gmail.com)
  
 
