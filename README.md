@@ -1,6 +1,6 @@
 ### Salut, moi c'est Amine 👋
 
-Étudiant en **Master 1 Ingénierie Logicielle @ Junia ISEN**. Je me concentre sur le développement back-end, la conception d'architectures robustes et l'optimisation système.
+Étudiant en **Master 2 Ingénierie Logicielle @ Junia ISEN**. Je me concentre sur le développement back-end, la conception d'architectures robustes et l'optimisation système.
 
 ---
 
